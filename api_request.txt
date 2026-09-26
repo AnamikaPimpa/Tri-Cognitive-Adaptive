@@ -1,0 +1,9 @@
+Open-Meteo Historical Weather API request
+
+https://archive-api.open-meteo.com/v1/archive?
+latitude=19.1628&
+longitude=99.9931&
+start_date=2020-07-01&
+end_date=2025-06-30&
+hourly=temperature_2m,relative_humidity_2m&
+timezone=Asia%2FBangkok
