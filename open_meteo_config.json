@@ -1,0 +1,23 @@
+{
+  "source": "Open-Meteo Historical Weather API",
+  "location": {
+    "latitude": 19.1628,
+    "longitude": 99.9931,
+    "area": "Phayao Province, Thailand"
+  },
+  "period": {
+    "start": "2020-07-01",
+    "end": "2025-06-30"
+  },
+  "temporal_resolution": "15-minute",
+  "variables": [
+    "temperature_2m",
+    "relative_humidity_2m"
+  ],
+  "models": [
+    "ERA5-Land",
+  ],
+  "processing": {
+    "description": "The retrieved data were processed according to the preprocessing procedures described in the manuscript."
+  }
+}
